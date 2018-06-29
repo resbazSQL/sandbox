@@ -1,0 +1,7 @@
+2016_GCP_CED_for_AUS_short-header.zip filter=lfs diff=lfs merge=lfs -text
+2016_GCP_SA1_for_AUS_short-header.zip filter=lfs diff=lfs merge=lfs -text
+1270055003_ced_2017_aust_csv.zip filter=lfs diff=lfs merge=lfs -text
+2016Census_G01_AUS_SA1.csv filter=lfs diff=lfs merge=lfs -text
+20180628-austmpdata.csv filter=lfs diff=lfs merge=lfs -text
+bibliography.csv filter=lfs diff=lfs merge=lfs -text
+CED_2017_AUST.csv filter=lfs diff=lfs merge=lfs -text
